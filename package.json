@@ -9,8 +9,8 @@
     "test:e2e": "node tests/e2e_demo_flow.test.js"
   },
   "dependencies": {
-    "@fastify/multipart": "^7.7.3",
+    "@fastify/multipart": "^10.0.0",
     "csv-parse": "^6.2.1",
-    "fastify": "^4.28.1"
+    "fastify": "^5.8.5"
   }
 }
